@@ -4,7 +4,7 @@ title: "PRORAD Study"
 
 ## 
 
-## Multi-omic Data Analysis
+## Multi-omics Data 
 
 ```{=html}
 <iframe width="1200" height="1500" src="Multiomicreports.html" title="Report"></iframe>
