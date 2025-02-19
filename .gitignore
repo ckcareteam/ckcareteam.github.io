@@ -2,7 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-.*.cscc
+*.scss
+*.yml
+*.css
 ._quarto
 /.quarto/
 .DS_Store
