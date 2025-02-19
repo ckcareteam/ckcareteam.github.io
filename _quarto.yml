@@ -3,7 +3,7 @@
 # website settings
 website:
   title: "CK-CARE Team Meeting"                                # Your name
-  description: "This is the Website specifically dedicated for CK-CARE Team Meeting"   # A brief slogan (optional)
+  description: "This is the Website specifically dedicated to CK-CARE Team Meeting"   # A brief slogan (optional)
   image: img/my_image.jpg
   
   favicon: img/favicon.png

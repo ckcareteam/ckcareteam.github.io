@@ -1,5 +1,5 @@
 ---
-title: "PRORAD"
+title: "CARE"
 format:
   html:
     header-includes: |
@@ -10,5 +10,9 @@ sansfont: Asap
 
 <hr>
 
-
+## CARE Study - Patients and Biosamples
+```{=html}
+<iframe width="1200" height="1500" src="REPORT of CARE STUDY.html" title="Report"></iframe>
+```
+---------------------------------------------------------------------------------------------
 

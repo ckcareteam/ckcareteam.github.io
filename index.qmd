@@ -12,6 +12,7 @@ sansfont: Asap
 ---
 
 ::: {#about-block}
+# Welcome to CK-CARE Team Meeting
 :::
 
-# Welcome to CK-CARE Team Meeting
+# ![](images/title.png)
