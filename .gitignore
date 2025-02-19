@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-
+.*.cscc
+._quarto
 /.quarto/
 .DS_Store
